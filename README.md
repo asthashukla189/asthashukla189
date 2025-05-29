@@ -7,7 +7,7 @@
 ---
 
 ## 🧩 Projects You Can Explore
-- 📝 [Fancy To-Do App](https://github.com/your-username/todo-app-enhanced)
+- 📝 [Fancy To-Do App](https://github.com/asthashukla189/TO-DO-APPLICATION)
 - 🧮 [Python GUI Calculator](https://github.com/your-username/gui-calculator)
 - 🌐 [Portfolio Website](https://asthashukla189.github.io/Portfolio-Astha/)
 
