@@ -12,13 +12,15 @@
 - 🌐 [Portfolio Website](https://asthashukla189.github.io/Portfolio-Astha/)
 
 ---
+## 🧩 My Badges
+
+
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
 ## 🌐 Let's Connect
 - 📧 asthashukla189@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/asthashukla189/)
 
-#BADGES:
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
 
 <!--
