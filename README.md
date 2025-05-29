@@ -7,7 +7,7 @@
 ---
 
 ## 🧩 Projects You Can Explore
-- 📝 [Fancy To-Do App](https://asthashukla189.github.io/TO-DO-APPLICATION/)
+- 📝 [To-Do App](https://asthashukla189.github.io/TO-DO-APPLICATION/)
 - 🌐 [Portfolio Website](https://asthashukla189.github.io/Portfolio-Astha/)
 
 ---
