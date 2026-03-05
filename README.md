@@ -12,7 +12,7 @@
 
 # `$ whoami` → **Astha Shukla**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Science+%26+AI+Agents+Builder+%F0%9F%94%A5;National+Winner+%E2%80%94+Smart+India+Hackathon+2025+%F0%9F%8F%86;Building+with+AI+today+%C2%B7+Shaping+products+tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Science+%26+AI+Agents+Builder+%F0%9F%94%A5;Building+with+AI+today+%C2%B7+Shaping+products+tomorrow)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Asthashukla189&label=profile+views&color=00ff41&style=flat" />
 
@@ -96,6 +96,10 @@ class Astha:
 ![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=flat-square&logo=powerbi&logoColor=00FF41)
 ![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=mathworks&logoColor=00FF41)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00FF41)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=flat-square&logo=googlecolab&logoColor=00FF41)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=00FF41)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=00FF41)
 
 ---
 
