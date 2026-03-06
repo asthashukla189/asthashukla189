@@ -131,6 +131,6 @@ class Astha:
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![snake gif](https://github.com/Asthashukla189/Asthashukla189/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
